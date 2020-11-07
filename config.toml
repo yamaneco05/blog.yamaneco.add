@@ -29,7 +29,7 @@ hreftargetblank = true
     avatarurl = "img/caticons.svg"
 
     favicon_32 = "img/favicony32.png"
-    favicon_16 = "img/favicony16.png"
+    favicon_16 = "img/favicony32.png"
 
     dateformat = "January 2, 2006"
 
