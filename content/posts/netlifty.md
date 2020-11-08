@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2020-11-08T13:31:16+09:00
 title = "Netliftyでのサイト公開"
 slug = "netlifty"
