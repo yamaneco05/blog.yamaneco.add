@@ -35,7 +35,7 @@ hreftargetblank = true
 
     hideCredits = true
     hideCopyright = true
-    footercontent = "©yamaneco05."
+    footercontent = "©yamaneco05"
 
     # Git Commit in Footer, uncomment the line below to enable it.
     # commit = "https://github.com/luizdepra/hugo-coder/tree/"
