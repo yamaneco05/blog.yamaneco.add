@@ -9,5 +9,8 @@ slug = "bookshelf"
 ## 保育士の味方
 {{< booklog "yamaneco05" "3139961" >}}
 
+## 好きな映画
+{{< booklog "yamaneco05" "3148743" >}}
+
 ## 技術書  
 学習中
