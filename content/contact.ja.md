@@ -3,4 +3,5 @@ title = "CONTACT"
 slg = "contact"
 +++
 
-準備中
+作成中
+

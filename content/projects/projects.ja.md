@@ -1,6 +1,7 @@
 +++
-title = "プロジェクト"
+title = "ジャンケンゲーム"
 slug = "projects"
 +++
 
-準備中です
+[ジャンケンゲーム](https://github.com/yamaneco05/stone-scissor-paper-game)
+（PHPの関数を使ったプログラム）
