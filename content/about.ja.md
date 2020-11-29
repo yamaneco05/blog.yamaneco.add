@@ -1,11 +1,7 @@
 +++
 title = "プロフィール"
 slug = "about"
-+++
-
-# サイトコンテンツ  
-学んだ技術をアウトプットする場です。  
-制作物を並べるポートフォリオのページも作る予定です。  
++++ 
 
 # 学習中の技術
 html,css,sketch,photoshop,illustlator,javascript  
@@ -33,8 +29,8 @@ LAMP環境（twitter上で[無料スクール](https://github.com/yotaro-ok/yps)
 娘が習っていて興味を持ち、いくつか舞台を見に行ったらハマってしまいました。  
 言語を通さず、動作や音楽や舞台演出で伝える物語に毎回感動して涙してしまいます。  
 
-映画鑑賞  
-レンタル屋さんへ行かなくても色々楽しめてしまういい時代です。
-好きな映画はLife is beautifulやLove letterなど
-
 読書  
+[お気に入りの10冊](https://yamaneco.netlify.app/bookshelf/)
+
+映画鑑賞  
+[好きな映画](https://yamaneco.netlify.app/bookshelf/)

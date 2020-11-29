@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2020-11-22T16:49:19+09:00
-title = "【備忘録】Linuxコマンド集"
+title = "【Linux】コマンド集"
 slug = "Linux" 
 tags = ["blog", "linux"]
 categories = ["blog"]
