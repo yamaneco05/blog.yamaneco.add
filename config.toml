@@ -42,6 +42,12 @@ hreftargetblank = true
 
     rtl = false
 
+    # Specify light/dark colorscheme
+    # Supported values:
+    # "auto" (use preference set by browser)
+    # "dark" (dark background, light foreground)
+    # "light" (light background, dark foreground) (default)
+    colorscheme = "auto"
     # Use inverted colors
     inverted = false
 

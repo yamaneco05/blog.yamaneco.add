@@ -1,9 +1,9 @@
 +++ 
 draft = false
 date = 2020-11-08T13:31:16+09:00
-title = "Netliftyでのサイト公開"
-slug = "netlifty"
-tags = ["hugo", "blog", "netlifty"]
+title = "Netlifyでのサイト公開"
+slug = "netlify"
+tags = ["hugo", "blog", "netlify"]
 categories = ["blog"]
 +++
 
@@ -15,16 +15,16 @@ categories = ["blog"]
 静的と動的とかjykillとかhugoとかとにかく色々あるらしい、じゃあ今回はどれにしよう。  
 デザインはどのテンプレを使おう。え、自作もできるの・・？  
 いざテンプレが決まったところでエラー出てまた調べる・・・  
-最終的にhugoで作ったサイトをNetliftyで公開することにしたが、公開にも時間が掛かってしまった。  
+最終的にhugoで作ったサイトをNetlifyで公開することにしたが、公開にも時間が掛かってしまった。  
 
-こちらの[サイト](https://blog.cotapon.org/how-to-release-netlify-using-hugo/)を参考にnetlifty.tomlを作成して
+こちらの[サイト](https://blog.cotapon.org/how-to-release-netlify-using-hugo/)を参考にnetlify.tomlを作成して
 hugoのバージョンをターミナルで検索して揃えた。  
 
 バージョン検索は簡単！  
 ```
 $ hugo version
 ```
-で、出てきた数字(0.75.1など)をnetlifty.tomlの該当箇所に全て当てはめた。  
+で、出てきた数字(0.75.1など)をnetlify.tomlの該当箇所に全て当てはめた。  
 
 なんの知識もないところからスタートしたが、ポートフォリオサイトを作りながら様々な情報に触れることができた。
 

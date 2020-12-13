@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2020-12-06T23:09:07+09:00
-title = "中古PCのOSをUbuntuにしてみた"
+title = "【linux】中古PCのOSをUbuntuにしてみた"
 slug = "Ubuntu" 
 tags = ["linux", "Ubuntu"]
 categories = ["blog"]
