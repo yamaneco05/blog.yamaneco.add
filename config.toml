@@ -25,7 +25,7 @@ hreftargetblank = true
     author = "yamaneco05"
     description = "yamaneco05's personal website"
     keywords = "blog, developer"
-    info = "IT Engineer"
+    info = " Learning a programming slowly"
     avatarurl = "img/caticons.svg"
 
     favicon_32 = "img/favicony32.png"
@@ -101,7 +101,7 @@ hreftargetblank = true
         # You can configure the theme parameter for each language.
         [languages.en.params]
         author = "yamaneco05"
-        info = "IT Engineer"
+        info = "Learning a programming slowly"
         description = "yamaneco's personal website"
         keywords = "blog, developer"
 
