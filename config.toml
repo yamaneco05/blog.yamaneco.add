@@ -156,7 +156,7 @@ hreftargetblank = true
             url = "/posts/"
 
             [[languages.ja.menu.main]]
-            name = "プロジェクト"
+            name = "ポートフォリオ"
             weight = 3
             url = "/projects/"
             
